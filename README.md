@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Rahul Reddy
+# 👋 Hi, I'm Geggalapally Rahul Reddy
 
-🎓 B.Tech First-Year Student | 💻 Aspiring Software Engineer  
+🎓 B.Tech Second-Year Student | 💻 Aspiring Software Engineer  
 🚀 Passionate about Web Development, AI, and Problem Solving
 
 ---
 
 ## 👨‍💻 Who am I?
-I am a Computer Science undergraduate student at the **Institute of Aeronautical Engineering**.  
+I am a Information Technology undergraduate student at the **Institute of Aeronautical Engineering**.  
 I enjoy building real-world projects, learning new technologies, and improving my coding skills every day.
 
 ---
@@ -45,8 +45,8 @@ I enjoy building real-world projects, learning new technologies, and improving m
 ---
 
 ## 📫 How to reach me?
-- 📧 Email: **grahulreddy38@gmail.com**
-- 💼 LinkedIn: *Add your LinkedIn profile link here*
+- 📧 Email:
+- 💼 LinkedIn:
 - 🧑‍💻 GitHub: You’re already here 😄
 
 ---
