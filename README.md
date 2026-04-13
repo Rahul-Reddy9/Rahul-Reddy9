@@ -52,3 +52,4 @@ I enjoy building real-world projects, learning new technologies, and improving m
 ---
 
 ⭐ *Feel free to check out my repositories and connect with me!*
+![Visitors](https://komarev.com/ghpvc/?username=Rahul-Reddy9&label=Profile%20Views&color=0e75b6&style=flat)
