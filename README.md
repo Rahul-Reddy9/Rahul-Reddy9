@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Geggalapally Rahul Reddy
 
-🎓 B.Tech Second-Year Student | 💻 Aspiring Software Engineer  
+🎓 B.Tech Third-Year Student | 💻 Aspiring Software Engineer  
 🚀 Passionate about Web Development, AI, and Problem Solving
 
 ---
